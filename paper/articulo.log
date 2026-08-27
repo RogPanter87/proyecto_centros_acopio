@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.6)  26 AUG 2026 20:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.6)  26 AUG 2026 21:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -350,7 +350,7 @@ s los
  []
 
 [3] [4]
-Underfull \hbox (badness 3189) in paragraph at lines 375--379
+Underfull \hbox (badness 3189) in paragraph at lines 364--365
 []\OT1/ptm/m/n/10 La con-fig-u-raci[]on de NSGA-II se man-tuvo con una
  []
 
@@ -358,22 +358,22 @@ Underfull \hbox (badness 3189) in paragraph at lines 375--379
 <frente_pareto_p3.png, id=39, 570.933pt x 425.1885pt>
 File: frente_pareto_p3.png Graphic file (type png)
 <use frente_pareto_p3.png>
-Package pdftex.def Info: frente_pareto_p3.png  used on input line 605.
+Package pdftex.def Info: frente_pareto_p3.png  used on input line 599.
 (pdftex.def)             Requested size: 189.0pt x 140.7538pt.
 <frente_pareto_p5.png, id=41, 570.933pt x 425.1885pt>
 File: frente_pareto_p5.png Graphic file (type png)
 <use frente_pareto_p5.png>
-Package pdftex.def Info: frente_pareto_p5.png  used on input line 612.
+Package pdftex.def Info: frente_pareto_p5.png  used on input line 606.
 (pdftex.def)             Requested size: 189.0pt x 140.7538pt.
 <frente_pareto_p7.png, id=42, 570.933pt x 425.1885pt>
 File: frente_pareto_p7.png Graphic file (type png)
 <use frente_pareto_p7.png>
-Package pdftex.def Info: frente_pareto_p7.png  used on input line 619.
+Package pdftex.def Info: frente_pareto_p7.png  used on input line 613.
 (pdftex.def)             Requested size: 189.0pt x 140.7538pt.
 <frente_pareto_p10.png, id=43, 570.4512pt x 425.1885pt>
 File: frente_pareto_p10.png Graphic file (type png)
 <use frente_pareto_p10.png>
-Package pdftex.def Info: frente_pareto_p10.png  used on input line 626.
+Package pdftex.def Info: frente_pareto_p10.png  used on input line 620.
 (pdftex.def)             Requested size: 189.0pt x 140.87059pt.
  [7 <./frente_pareto_p3.png> <./frente_pareto_p5.png> <./frente_pareto_p7.png> 
 <./frente_pareto_p10.png>]
@@ -381,11 +381,11 @@ Package pdftex.def Info: frente_pareto_p10.png  used on input line 626.
 File: evolucion_f1_f2_numero_centros.png Graphic file (type png)
 <use evolucion_f1_f2_numero_centros.png>
 Package pdftex.def Info: evolucion_f1_f2_numero_centros.png  used on input line
- 676.
+ 670.
 (pdftex.def)             Requested size: 214.20154pt x 142.10182pt.
  [8 <./evolucion_f1_f2_numero_centros.png>]
 [9]
-Underfull \hbox (badness 2469) in paragraph at lines 758--763
+Underfull \hbox (badness 2469) in paragraph at lines 752--757
 \OT1/ptm/m/it/8 IEEE Ac-cess\OT1/ptm/m/n/8 , vol. 8, pp. 89497--89509, 2020, do
 i: 10.1109/AC-
  []
@@ -397,10 +397,10 @@ L3 programming layer <2025-12-24>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3805 strings out of 467870
- 61316 string characters out of 5418356
- 487971 words of memory out of 5000000
- 32649 multiletter control sequences out of 15000+600000
+ 3807 strings out of 467870
+ 61372 string characters out of 5418356
+ 487122 words of memory out of 5000000
+ 32651 multiletter control sequences out of 15000+600000
  669592 words of font info for 118 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  57i,11n,65p,804b,259s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -425,7 +425,7 @@ ms/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/estop/AppData/Local/Progra
 ms/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/estop/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/estop/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on articulo.pdf (10 pages, 985201 bytes).
+Output written on articulo.pdf (10 pages, 985779 bytes).
 PDF statistics:
  142 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

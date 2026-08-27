@@ -339,15 +339,9 @@ Se seleccionó como solución de compromiso aquella que presentó el menor valor
 
 \subsection{Formulación multiobjetivo con tres objetivos}
 
-Como extensión del problema multiobjetivo anterior, se incorporó un tercer
-objetivo para considerar explícitamente el número de centros de acopio
-instalados. A diferencia de los experimentos anteriores, en esta formulación
-el valor de $p$ no se mantuvo fijo, permitiendo que NSGA-II determinara el
-número de centros como parte del proceso de optimización.
+Como extensión del problema multiobjetivo anterior, se incorporó un tercer objetivo para considerar explícitamente el número de centros de acopio instalados. A diferencia de los experimentos anteriores, en esta formulación el valor de $p$ no se mantuvo fijo, permitiendo que NSGA-II determinara el número de centros como parte del proceso de optimización.
 
-Se conservaron como primeros dos objetivos la distancia promedio ponderada por
-producción, $f_1$, y la distancia máxima de atención, $f_2$. El tercer objetivo
-se definió como el número total de centros seleccionados:
+Se conservaron como primeros dos objetivos la distancia promedio ponderada por producción, $f_1$, y la distancia máxima de atención, $f_2$. El tercer objetivo se definió como el número total de centros seleccionados:
 
 \begin{equation}
 	f_3(x)=\sum_{j=1}^{43}x_j.
@@ -365,17 +359,17 @@ sujeto a la restricción
 	3 \leq \sum_{j=1}^{43}x_j \leq 10.
 \end{equation}
 
-Esta formulación permitió analizar simultáneamente la eficiencia logística, la
-cobertura territorial y la cantidad de infraestructura requerida. Debido a que
-el número de centros dejó de ser fijo, la inicialización de la población se
-modificó para generar soluciones con entre 3 y 10 centros. Asimismo, se utilizó
-un operador de reparación para garantizar que los individuos generados mediante
-los operadores evolutivos permanecieran dentro de este intervalo.
+Esta formulación permitió analizar simultáneamente la eficiencia logística, la cobertura territorial y la cantidad de infraestructura requerida. A diferencia de las formulaciones anteriores, el número de centros dejó de establecerse como un parámetro fijo y pasó a formar parte del proceso de optimización. Por esta razón, la inicialización de la población se modificó para generar soluciones con entre 3 y 10 centros de acopio. Asimismo, se incorporó un operador de reparación para garantizar que las soluciones generadas por los operadores evolutivos cumplieran con este intervalo.
 
-La configuración de NSGA-II se mantuvo con una población de 100 individuos,
-200 generaciones, una probabilidad de cruce de 0.90 y una probabilidad de
-mutación de $1/43$. Se realizaron 30 corridas independientes utilizando las
-semillas enteras de 0 a 29.
+La configuración de NSGA-II se mantuvo con una población de 100 individuos durante 200 generaciones, una probabilidad de cruce de 0.90 y una probabilidad de mutación de $1/43$. Para evaluar la estabilidad del algoritmo y reducir la dependencia de una única inicialización, se realizaron 30 corridas independientes utilizando las semillas enteras de 0 a 29.
+
+\subsection{Disponibilidad del código y datos}
+
+El código fuente, los conjuntos de datos, el notebook utilizado para los experimentos y los resultados generados se encuentran disponibles en el repositorio del proyecto en GitHub:
+
+\begin{center}
+	\url{https://github.com/RogPanter87/proyecto_centros_acopio}
+\end{center}
 
 % ============================================================
 % RESULTADOS
