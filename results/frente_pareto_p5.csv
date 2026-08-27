@@ -1,0 +1,11 @@
+p,seed,solucion,f1_promedio_ponderado_km,f2_distancia_maxima_km,indices_centros,centros
+5,0,1,16.62166718898823,218.757001,"[11, 21, 32, 34, 39]","['González', 'Matamoros', 'Río Bravo', 'San Fernando', 'Valle Hermoso']"
+5,0,2,17.352438277929657,197.327862,"[11, 21, 31, 32, 34]","['González', 'Matamoros', 'Reynosa', 'Río Bravo', 'San Fernando']"
+5,0,3,19.509264540550127,159.121441,"[6, 11, 21, 32, 34]","['Camargo', 'González', 'Matamoros', 'Río Bravo', 'San Fernando']"
+5,0,5,22.884285306543312,150.277393,"[6, 21, 32, 34, 42]","['Camargo', 'Matamoros', 'Río Bravo', 'San Fernando', 'Xicoténcatl']"
+5,0,4,27.742051979345796,146.150389,"[6, 7, 11, 32, 34]","['Camargo', 'Casas', 'González', 'Río Bravo', 'San Fernando']"
+5,0,10,27.985636966192395,129.804564,"[7, 11, 24, 32, 34]","['Casas', 'González', 'Miguel Alemán', 'Río Bravo', 'San Fernando']"
+5,0,9,28.168142640762028,128.460678,"[7, 11, 23, 32, 34]","['Casas', 'González', 'Mier', 'Río Bravo', 'San Fernando']"
+5,0,8,29.02191024088095,125.23272,"[11, 12, 23, 32, 34]","['González', 'Güémez', 'Mier', 'Río Bravo', 'San Fernando']"
+5,0,7,29.569392829720854,122.698237,"[11, 23, 32, 34, 40]","['González', 'Mier', 'Río Bravo', 'San Fernando', 'Victoria']"
+5,0,6,29.702325248994832,106.008269,"[11, 13, 32, 34, 40]","['González', 'Guerrero', 'Río Bravo', 'San Fernando', 'Victoria']"

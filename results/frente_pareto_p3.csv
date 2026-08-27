@@ -1,0 +1,12 @@
+p,seed,solucion,f1_promedio_ponderado_km,f2_distancia_maxima_km,indices_centros,centros
+3,0,6,32.56141237266288,218.757001,"[11, 32, 34]","['González', 'Río Bravo', 'San Fernando']"
+3,0,5,39.789813631059396,197.327862,"[11, 31, 34]","['González', 'Reynosa', 'San Fernando']"
+3,0,10,57.082257357436454,190.624696,"[7, 14, 39]","['Casas', 'Gustavo Díaz Ordaz', 'Valle Hermoso']"
+3,0,1,57.53560466761939,176.097157,"[14, 36, 39]","['Gustavo Díaz Ordaz', 'Soto la Marina', 'Valle Hermoso']"
+3,0,9,57.96026278850363,171.210441,"[14, 18, 39]","['Gustavo Díaz Ordaz', 'Llera', 'Valle Hermoso']"
+3,0,4,59.77113611663137,166.394431,"[11, 14, 34]","['González', 'Gustavo Díaz Ordaz', 'San Fernando']"
+3,0,2,70.87439659669022,159.121441,"[6, 11, 34]","['Camargo', 'González', 'San Fernando']"
+3,0,3,74.24941736268339,150.277393,"[6, 34, 42]","['Camargo', 'San Fernando', 'Xicoténcatl']"
+3,0,8,81.97187386326387,146.150389,"[6, 22, 42]","['Camargo', 'Méndez', 'Xicoténcatl']"
+3,0,11,88.64983778054405,141.396971,"[22, 24, 42]","['Méndez', 'Miguel Alemán', 'Xicoténcatl']"
+3,0,7,89.5044624580781,138.045942,"[20, 22, 24]","['El Mante', 'Méndez', 'Miguel Alemán']"

@@ -1,0 +1,5 @@
+p,fitness_km,indices_centros,centros
+3,38.02295645465094,"[39, 34, 11]","['Valle Hermoso', 'San Fernando', 'González']"
+5,16.62166718898823,"[39, 34, 11, 32, 21]","['Valle Hermoso', 'San Fernando', 'González', 'Río Bravo', 'Matamoros']"
+7,9.639804742129789,"[39, 34, 11, 32, 21, 7, 22]","['Valle Hermoso', 'San Fernando', 'González', 'Río Bravo', 'Matamoros', 'Casas', 'Méndez']"
+10,3.721808806322683,"[39, 34, 11, 32, 21, 7, 22, 31, 2, 36]","['Valle Hermoso', 'San Fernando', 'González', 'Río Bravo', 'Matamoros', 'Casas', 'Méndez', 'Reynosa', 'Altamira', 'Soto la Marina']"

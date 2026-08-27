@@ -1,0 +1,13 @@
+p,tipo_solucion,f1_km,f2_km,seed,indices_centros,centros
+3,Menor_f1,32.56141237266288,218.757001,0,"[11, 32, 34]","['González', 'Río Bravo', 'San Fernando']"
+3,Menor_f2,89.5044624580781,138.045942,0,"[20, 22, 24]","['El Mante', 'Méndez', 'Miguel Alemán']"
+3,Compromiso,59.77113611663137,166.394431,0,"[11, 14, 34]","['González', 'Gustavo Díaz Ordaz', 'San Fernando']"
+5,Menor_f1,16.62166718898823,218.757001,0,"[11, 21, 32, 34, 39]","['González', 'Matamoros', 'Río Bravo', 'San Fernando', 'Valle Hermoso']"
+5,Menor_f2,29.702325248994832,106.008269,0,"[11, 13, 32, 34, 40]","['González', 'Guerrero', 'Río Bravo', 'San Fernando', 'Victoria']"
+5,Compromiso,19.509264540550127,159.121441,0,"[6, 11, 21, 32, 34]","['Camargo', 'González', 'Matamoros', 'Río Bravo', 'San Fernando']"
+7,Menor_f1,9.639804742129789,218.757001,0,"[7, 11, 21, 22, 32, 34, 39]","['Casas', 'González', 'Matamoros', 'Méndez', 'Río Bravo', 'San Fernando', 'Valle Hermoso']"
+7,Menor_f2,39.71270542777044,81.482774,7,"[1, 7, 14, 21, 26, 35, 38]","['Aldama', 'Casas', 'Gustavo Díaz Ordaz', 'Matamoros', 'Nuevo Laredo', 'San Nicolás', 'Tula']"
+7,Compromiso,13.762580065320183,106.008269,0,"[11, 13, 21, 32, 34, 39, 40]","['González', 'Guerrero', 'Matamoros', 'Río Bravo', 'San Fernando', 'Valle Hermoso', 'Victoria']"
+10,Menor_f1,3.721808806322683,197.327862,0,"[2, 7, 11, 21, 22, 31, 32, 34, 36, 39]","['Altamira', 'Casas', 'González', 'Matamoros', 'Méndez', 'Reynosa', 'Río Bravo', 'San Fernando', 'Soto la Marina', 'Valle Hermoso']"
+10,Menor_f2,31.2198655130051,59.942255,12,"[2, 6, 7, 9, 11, 15, 16, 20, 26, 32]","['Altamira', 'Camargo', 'Casas', 'Cruillas', 'González', 'Hidalgo', 'Jaumave', 'El Mante', 'Nuevo Laredo', 'Río Bravo']"
+10,Compromiso,11.140196046501819,81.482774,1,"[1, 6, 7, 21, 26, 32, 33, 34, 38, 39]","['Aldama', 'Camargo', 'Casas', 'Matamoros', 'Nuevo Laredo', 'Río Bravo', 'San Carlos', 'San Fernando', 'Tula', 'Valle Hermoso']"
